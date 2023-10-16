@@ -1,0 +1,66 @@
+@charset "ISO-8859-1";
+
+body, h1, h2, p, form, input, a {
+	margin: 0;
+	padding: 0;
+}
+
+.page-heading {
+	margin-bottom: 50px;
+}
+body {
+	font-family: Arial, sans-serif;
+	background: #f2f2f2;
+	text-align: center;
+}
+
+form {
+	background: #fff;
+	max-width: 400px;
+	margin: 0 auto;
+	padding: 20px;
+	border-radius: 5px;
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+form h2 {
+	color: #333;
+	margin-bottom: 20px;
+}
+
+input[type="text"], input[type="password"] {
+	width: 100%;
+	padding: 10px;
+	margin: 8px 0;
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background: #f9f9f9;
+	color: #333;
+}
+
+input[type="submit"] {
+	width: 100%;
+	padding: 10px;
+	margin: 10px 0;
+	border: none;
+	border-radius: 5px;
+	background: #0077cc;
+	color: #fff;
+	cursor: pointer;
+}
+
+input[type="submit"]:hover {
+	background: #0055aa;
+}
+
+a {
+	display: block;
+	margin-top: 20px;
+	color: #0077cc;
+	text-decoration: none;
+}
+
+.error {
+	color: #ff0000;
+	margin: 10px 0;
+}
