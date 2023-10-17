@@ -13,7 +13,7 @@ Controller (C): The Controller acts as an intermediary between the Model and Vie
 
 User Registration: Users can create accounts by providing necessary information, and this data is stored securely in the system.
 
-User Login: Registered users can log in to access their tasks and account settings.
+User Login: Registered users can log in to access their tasks.
 
 Task Management: Users can create, view, edit, and delete tasks. Task attributes typically include title, description, due date,status etc.
 
