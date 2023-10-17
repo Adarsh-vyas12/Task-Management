@@ -35,16 +35,16 @@ Authentication: A secure authentication mechanism to protect user data and contr
 
 # ScreenShots:
 
-# Login Page :- ![Screenshot (88)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/d8304d68-2641-430d-985b-ca8f80957b75)
+Login Page :- ![Screenshot (88)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/d8304d68-2641-430d-985b-ca8f80957b75)
 
-# Registration Page :- ![Screenshot (89)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/ed815155-50f6-47fb-9655-4180dab707f3)
+Registration Page :- ![Screenshot (89)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/ed815155-50f6-47fb-9655-4180dab707f3)
 
-# User DashBoard :- ![Screenshot (90)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/f3555697-d030-4aa0-8b65-a66d6be27dee)
+User DashBoard :- ![Screenshot (90)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/f3555697-d030-4aa0-8b65-a66d6be27dee)
 
-# Create New Task :- ![Screenshot (92)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/cdc2b898-ac69-464d-9d89-b8afde78dde0)
+Create New Task :- ![Screenshot (92)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/cdc2b898-ac69-464d-9d89-b8afde78dde0)
 
-# Task Lists :- ![Screenshot (93)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/67aa5423-effa-41a2-9d52-553bebb49d44)
+Task Lists :- ![Screenshot (93)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/67aa5423-effa-41a2-9d52-553bebb49d44)
 
-# Update Tasks :- ![Screenshot (94)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/d91bf9b0-d9de-4689-a692-65d99004ca50)
+Update Tasks :- ![Screenshot (94)](https://github.com/Adarsh-vyas12/Task-Management/assets/147358585/d91bf9b0-d9de-4689-a692-65d99004ca50)
 
 
