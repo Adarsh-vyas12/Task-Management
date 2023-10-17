@@ -15,9 +15,9 @@ User Registration: Users can create accounts by providing necessary information,
 
 User Login: Registered users can log in to access their tasks and account settings.
 
-Task Management: Users can create, view, edit, and delete tasks. Task attributes typically include title, description, due date, priority, and status.
+Task Management: Users can create, view, edit, and delete tasks. Task attributes typically include title, description, due date,status etc.
 
-Task Status: Tasks can be categorized by status (e.g., "To Do," "In Progress," "Done") for efficient tracking.
+Task Status: Tasks can be categorized by status (e.g., "complete","incomplete") for efficient tracking.
 
 User Authentication: Ensures that only registered and authenticated users can access and modify task data.
 
@@ -25,10 +25,11 @@ User Interaction: Users can perform actions like creating new tasks, updating ta
 
 # Technology Stack:
 
-Frontend: JSP for dynamic web pages, HTML, CSS, and JavaScript for user interface and interactivity.
+Frontend: JSP for dynamic web pages, HTML, CSS for user interface and interactivity.
 
 Backend: Java for business logic and data handling.
 
 Database: A relational database management system (e.g.MySQL) to store user account information and task data.
 
 Authentication: A secure authentication mechanism to protect user data and control access.
+
